@@ -1,6 +1,25 @@
 # Software Requirements Specification for Payroll System Expansion
 
-## Section 1: Introduction
+## TABLE OF CONTENTS
+
+- [Introduction](#introduction)
+  - [Purpose](#purpose)
+  - [Project Scope and Exclusions](#project-scope-and-exclusions)
+
+- [Overall Description](#overall-description)
+  - [Product Perspective](#product-perspective)
+  - [User Needs](#user-needs)
+  - [Assumptions and Dependencies](#assumptions-and-dependencies)
+
+- [System Features and Requirements](#system-features-and-requirements)
+  - [System Features](#system-features)
+  - [Non-functional Requirements](#non-functional-requirements)
+
+- [Appendix](#appendix)
+  - [Glossary](#glossary)
+  - [Diagrams](#diagrams)
+
+## Introduction
 
 ### Purpose
 
@@ -18,7 +37,7 @@ The payroll system does not extend to employee performance evaluations, goal set
 
 ---
 
-## Section 2: Overall Description
+## Overall Description
 
 ### Product Perspective
 
@@ -51,7 +70,7 @@ These needs are prioritized based on their importance and impact on users, ensur
 
 ---
 
-## Section 3: System Features and Requirements
+## System Features and Requirements
 
 ### System Features
 
@@ -87,7 +106,7 @@ These needs are prioritized based on their importance and impact on users, ensur
 
 ---
 
-## Section 4: Appendix
+## Appendix
 
 ### Glossary
 
