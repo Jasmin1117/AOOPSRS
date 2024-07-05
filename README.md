@@ -229,6 +229,8 @@ Classes and Associations:
 - LeaveRequest
   - 1..1 LeaveRequestCategory (Association)
 
+### Entity-relationship Diagram (ERD)
+
 ![Entity Relationship Diagram for MotorPH Payroll System drawio](https://github.com/Jasmin172002/AOOPSRS/assets/125138169/50ba213b-0766-4e13-9ec2-8b0a219c3d8d)
   <small>Figure 3: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
 
