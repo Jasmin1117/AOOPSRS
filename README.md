@@ -77,29 +77,79 @@ These needs are prioritized based on their importance and impact on users, ensur
 1. **Employee Login Functionality:** Employee Login Functionality: Provides a secure login mechanism for employees to access their profiles and personal information. The system includes error handling to manage and notify users of invalid login attempts and allows employees to request a new password if forgotten, thereby enhancing security.
    
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
+   <small>Figure 1: Successful Login</small>
 
-3. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review and save generated payslips, which are then distributed to employees electronically or in printed form.
+   {insert GIF}
+   <small>Figure 2: Submitting Forgot Password</small>
+
+2. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review, save, view, and edit generated payslips, which are then distributed to employees electronically or in printed form.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
-   
-4. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
+   <small>Figure 3: Generating and Saving Payslips</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/630af10e-bd5f-48a2-af9e-49fe3f31e418" alt="editp" width="500"/>
+   <small>Figure 4: Viewing and Editing Employee Payslipss</small>
+
+3. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
-   <small>Add new employee</small>
+   <small>Figure 5: Adding a new employee</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/6a0f7ee2-dddf-42d7-a567-f77388c0fe2f" alt="editem" width="500"/>
-   <small>Edit Employee Information</small>
+   <small>Figure 6: Editing Employee Information</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/09fe8a54-6a14-49e8-8ba9-db092e01fb8a" alt="viewem" width="500"/>
-   <small>View and Delete Employee Information</small>
+   <small>Figure 7: Viewing and Deleting Employee Information</small>
    
-5. **Leave Management:** Facilitates comprehensive leave management processes where HR can approve, disapprove, view, and delete employee leave requests. The system maintains a centralized record of all leave requests, helping HR managers efficiently manage employee absences and ensure staffing coverage.
+4. **Leave Management:** Facilitates comprehensive leave management processes where HR can approve, disapprove, view, and delete employee leave requests. The system maintains a centralized record of all leave requests, helping HR managers efficiently manage employee absences and ensure staffing coverage.
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/54754eae-dc50-4dfc-99cb-f75099dfd142" alt="approve" width="500"/>
+   <small>Figure 8: Approving Leave Request</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/753644bf-f96b-415c-b51a-aa1635f1fddc" alt="disapp" width="500"/>
+   <small>Figure 9: Disapproving Leave Request</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/55c26bd2-46f5-4d01-9956-98a2b81ff867" alt="viewleave" style="width:500px;">
+   <small>Figure 10: Viewing and Deleting Leave Request</small>
    
-6. **Employee Self-Service Portal:** Provides employees with a self-service portal to access and manage their personal information. Employees can record their time in and out, submit leave requests, track the status of submitted requests, and view electronic payslips that provide detailed breakdowns of earnings, deductions, and benefits.
-   
-7. **Reporting Capabilities:** An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
-   
-8. **System Administrator Functionalities:** Provides system administrators with tools to manage user accounts, roles, and access levels across the platform. Administrators can create new user accounts, reset passwords, update user permissions, and maintain role-based access control to safeguard sensitive information and ensure efficient system management.
+5. **Employee Self-Service Portal:** Provides employees with a self-service portal to access and manage their personal information. Employees can record their time in and out, submit leave requests, track the status of submitted requests, and view electronic payslips that provide detailed breakdowns of earnings, deductions, and benefits.
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
+   <small>Figure 11: Viewing Personal Information</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/63248cad-d969-4384-846a-0fc9dbf46053" alt="timein" style="width:500px;">
+   <small>Figure 12: Recording Time in</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/62e6e713-812d-432e-9010-8f0d1b1cc36c" alt="timeout" style="width:500px;">
+   <small>Figure 13: Recording Time out</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/3c987bdc-f908-4411-a314-9a2f04171559" alt="sickleave" style="width:500px;">
+   <small>Figure 14: Submitting Leave Request</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a" alt="payslipv" style="width:500px;">
+   <small>Figure 15: Viewing Payslip</small>
+
+6. **Reporting Capabilities:** An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
+ 
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
+   <small>Figure 16: Generating Payslip Report</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e6ece67b-6a3b-48f0-a3e0-c408c184fb27" alt="fdashboard" style="width:500px;">
+   <small>Figure 17: Payroll Dashboard</small>
+
+   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e8f0f4b6-806b-4d09-8f39-a27b9b4651de" alt="hrdash" width="500">
+   <small>Figure 18: HR Dashboard</small>
+
+7. **System Administrator Functionalities:** Provides system administrators with tools to manage user accounts, roles, and access levels across the platform. Administrators can create new user accounts, reset passwords, update user permissions, and maintain role-based access control to safeguard sensitive information and ensure efficient system management.
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/df351a08-5e1b-4bab-8683-e2250c6bea88" alt="newuser" style="width:500px;">
+   <small>Figure 19: Adding a new user</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/54343d8d-eb68-4ab6-9081-a54eb73854e3" alt="ediuserr" style="width:500px;">
+   <small>Figure 20: Editing user information and Resetting Password</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/f0fd1962-e11e-4b8c-9369-1ea841425289" alt="delete" style="width:500px;">
+   <small>Figure 21: Viewing and Deleting User</small>
 
 ### Non-functional Requirements
 
