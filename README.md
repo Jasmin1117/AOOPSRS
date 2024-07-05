@@ -229,63 +229,63 @@ Classes and Associations:
 - LeaveRequest
   - 1..1 LeaveRequestCategory (Association)
 
-- **Figure 3: Entity-Relationship Diagram (ERD) of the Expanded Payroll System**
-  ![ER Diagram](ER Diagram.png)
+![Entity Relationship Diagram for MotorPH Payroll System drawio](https://github.com/Jasmin172002/AOOPSRS/assets/125138169/50ba213b-0766-4e13-9ec2-8b0a219c3d8d)
+  <small>Figure 3: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
 
   The figure above represents the entity relationships for the payroll system. Below is the list of entities:
 
-  - Employee
-  - Allowance
-  - Deduction
-  - Payslip
-  - Tax
-  - Tax Category
-  - Leave Request
-  - Leave Request Category
-  - Position
-  - Timesheet
-  - User
-  - Role
-  - Permission
-  - Department
+- Employee
+- Allowance
+- Deduction
+- Payslip
+- Tax
+- Tax Category
+- Leave Request
+- Leave Request Category
+- Position
+- Timesheet
+- User
+- Role
+- Permission
+- Department
 
-  The relationships within the ERD outline the connections between different entities, defining how they interact and correlate with each other:
+The relationships within the ERD outline the connections between different entities, defining how they interact and correlate with each other:
 
-  - **Employee -> Position:**
-    This one-to-many relationship ensures that each employee is associated with one or more positions within the organization, while each position can be occupied by multiple employees.
+- **Employee - Position:**
+  This one-to-many relationship ensures that each employee is associated with one or more positions within the organization, while each position can be occupied by multiple employees.
 
-  - **Employee -> Timesheet:**
-    In this one-to-many relationship, each employee can have multiple timesheet entries, but each timesheet entry is linked to only one employee, facilitating accurate tracking of work hours.
+- **Employee - Timesheet:**
+  In this one-to-many relationship, each employee can have multiple timesheet entries, but each timesheet entry is linked to only one employee, facilitating accurate tracking of work hours.
 
-  - **Employee -> Payslip:**
-    This one-to-many relationship allows each employee to have multiple payslips, with each payslip uniquely associated with one employee, streamlining payroll management.
+- **Employee - Payslip:**
+  This one-to-many relationship allows each employee to have multiple payslips, with each payslip uniquely associated with one employee, streamlining payroll management.
 
-  - **Employee -> Allowance:**
-    The one-to-many relationship between employee and allowance permits each employee to have multiple allowances, ensuring flexible compensation options tailored to individual employee needs.
+- **Employee - Allowance:**
+  The one-to-many relationship between employee and allowance permits each employee to have multiple allowances, ensuring flexible compensation options tailored to individual employee needs.
 
-  - **Employee -> Deduction:**
-    With a one-to-many relationship, each employee can have multiple deductions, while each deduction entry is linked to only one employee, simplifying payroll deductions.
+- **Employee - Deduction:**
+  With a one-to-many relationship, each employee can have multiple deductions, while each deduction entry is linked to only one employee, simplifying payroll deductions.
 
-  - **Employee -> Leave Request:**
-    This one-to-many relationship enables each employee to submit multiple leave requests, ensuring efficient management of employee absences and vacation time.
+- **Employee - Leave Request:**
+  This one-to-many relationship enables each employee to submit multiple leave requests, ensuring efficient management of employee absences and vacation time.
 
-  - **Employee -> Department:**
-    In this one-to-one relationship, each employee is associated with only one department, ensuring clear organizational structure and hierarchy.
+- **Employee - Department:**
+  In this one-to-one relationship, each employee is associated with only one department, ensuring clear organizational structure and hierarchy.
 
-  - **Allowance -> Payslip:**
-    The one-to-one relationship between payslip and allowance ensures that each payslip corresponds to a single total allowance amount, maintaining accuracy in payroll calculations.
+- **Allowance - Payslip:**
+  The one-to-one relationship between payslip and allowance ensures that each payslip corresponds to a single total allowance amount, maintaining accuracy in payroll calculations.
 
-  - **Payslip -> Deduction:**
-    The one-to-one relationship between payslip and deduction ensures that each payslip corresponds to a single total deduction amount, maintaining accuracy in payroll calculations.
+- **Payslip - Deduction:**
+  The one-to-one relationship between payslip and deduction ensures that each payslip corresponds to a single total deduction amount, maintaining accuracy in payroll calculations.
 
-  - **Leave Request -> Leave Request Category:**
-    This one-to-one relationship links each leave request to a specific category, facilitating proper categorization and management of employee leave requests.
+- **Leave Request - Leave Request Category:**
+  This one-to-one relationship links each leave request to a specific category, facilitating proper categorization and management of employee leave requests.
 
-  - **Employee -> User:**
-    The one-to-one relationship between employee and user associates each employee with a unique user account, ensuring secure access to system resources.
+- **Employee - User:**
+  The one-to-one relationship between employee and user associates each employee with a unique user account, ensuring secure access to system resources.
 
-  - **User -> Role:**
-    In this one-to-one relationship, each user is linked to exactly one role, defining their permissions and access rights within the system.
+- **User - Role:**
+  In this one-to-one relationship, each user is linked to exactly one role, defining their permissions and access rights within the system.
 
-  - **Role -> Permission:**
-    With a one-to-many relationship, each role can have multiple permissions associated with it, allowing for flexible and granular control over system access and functionality.
+- **Role - Permission:**
+  With a one-to-many relationship, each role can have multiple permissions associated with it, allowing for flexible and granular control over system access and functionality.
