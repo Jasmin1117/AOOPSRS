@@ -209,7 +209,7 @@ These needs are prioritized based on their importance and impact on users, ensur
 ### Use Case Diagram
 
 [![UseCaseDiagram](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)
-<small>Figure 1: Use Case Diagram of the Expanded Payroll System</small>
+<small>Figure 22: Use Case Diagram of the Expanded Payroll System</small>
 
 The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
 
@@ -248,7 +248,7 @@ Interactions:
 ### Class Diagram
 
 [![AOOP_S2101 (3)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)
-<small>Figure 2: Class Diagram of the Expanded Payroll System</small>
+<small>Figure 23: Class Diagram of the Expanded Payroll System</small>
 
 This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
 
@@ -295,7 +295,7 @@ Classes and Associations:
 ### Entity-relationship Diagram (ERD)
 
 ![Entity Relationship Diagram for MotorPH Payroll System drawio](https://github.com/Jasmin172002/AOOPSRS/assets/125138169/50ba213b-0766-4e13-9ec2-8b0a219c3d8d)
-  <small>Figure 3: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
+  <small>Figure 24: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
 
   The figure above represents the entity relationships for the payroll system. Below is the list of entities:
 
