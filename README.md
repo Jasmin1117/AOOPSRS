@@ -74,23 +74,32 @@ These needs are prioritized based on their importance and impact on users, ensur
 
 ### System Features
 
-1. **Employee Login Functionality:** Provides a secure login mechanism for employees to access their profiles and personal information. The system includes error handling to manage and notify users of invalid login attempts, enhancing security.
-
+1. **Employee Login Functionality:** Employee Login Functionality: Provides a secure login mechanism for employees to access their profiles and personal information. The system includes error handling to manage and notify users of invalid login attempts and allows employees to request a new password if forgotten, thereby enhancing security.
+   
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
 
-2. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review and save generated payslips, which are then distributed to employees electronically or in printed form.
+3. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review and save generated payslips, which are then distributed to employees electronically or in printed form.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
    
-3. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
+4. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
+   <small>Add new employee</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/6a0f7ee2-dddf-42d7-a567-f77388c0fe2f" alt="editem" width="500"/>
+   <small>Edit Employee Information</small>
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/09fe8a54-6a14-49e8-8ba9-db092e01fb8a" alt="viewem" width="500"/>
+   <small>View and Delete Employee Information</small>
    
-4. **Leave Management:** Facilitates comprehensive leave management processes where HR can approve, disapprove, view, and delete employee leave requests. The system maintains a centralized record of all leave requests, helping HR managers efficiently manage employee absences and ensure staffing coverage.
+5. **Leave Management:** Facilitates comprehensive leave management processes where HR can approve, disapprove, view, and delete employee leave requests. The system maintains a centralized record of all leave requests, helping HR managers efficiently manage employee absences and ensure staffing coverage.
    
-5. **Employee Self-Service Portal:** Provides employees with a self-service portal to access and manage their personal information. Employees can record their time in and out, submit leave requests, track the status of submitted requests, and view electronic payslips that provide detailed breakdowns of earnings, deductions, and benefits.
+6. **Employee Self-Service Portal:** Provides employees with a self-service portal to access and manage their personal information. Employees can record their time in and out, submit leave requests, track the status of submitted requests, and view electronic payslips that provide detailed breakdowns of earnings, deductions, and benefits.
    
-6. **Reporting Capabilities:** An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
+7. **Reporting Capabilities:** An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
    
-7. **System Administrator Functionalities:** Provides system administrators with tools to manage user accounts, roles, and access levels across the platform. Administrators can create new user accounts, reset passwords, update user permissions, and maintain role-based access control to safeguard sensitive information and ensure efficient system management.
+8. **System Administrator Functionalities:** Provides system administrators with tools to manage user accounts, roles, and access levels across the platform. Administrators can create new user accounts, reset passwords, update user permissions, and maintain role-based access control to safeguard sensitive information and ensure efficient system management.
 
 ### Non-functional Requirements
 
