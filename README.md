@@ -75,7 +75,9 @@ These needs are prioritized based on their importance and impact on users, ensur
 ### System Features
 
 1. **Employee Login Functionality:** Provides a secure login mechanism for employees to access their profiles and personal information. The system includes error handling to manage and notify users of invalid login attempts, enhancing security.
-   
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
+
 2. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review and save generated payslips, which are then distributed to employees electronically or in printed form.
    
 3. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
