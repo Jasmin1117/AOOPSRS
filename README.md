@@ -79,6 +79,8 @@ These needs are prioritized based on their importance and impact on users, ensur
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
 
 2. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review and save generated payslips, which are then distributed to employees electronically or in printed form.
+
+   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
    
 3. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
    
@@ -86,7 +88,7 @@ These needs are prioritized based on their importance and impact on users, ensur
    
 5. **Employee Self-Service Portal:** Provides employees with a self-service portal to access and manage their personal information. Employees can record their time in and out, submit leave requests, track the status of submitted requests, and view electronic payslips that provide detailed breakdowns of earnings, deductions, and benefits.
    
-6. **Reporting Capabilities:** Offers extensive reporting functionalities that generate detailed payslip reports and analytics. The system compiles comprehensive reports on employee earnings, deductions, benefits, and net pay, aiding payroll administrators in financial planning and compliance. An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
+6. **Reporting Capabilities:** An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
    
 7. **System Administrator Functionalities:** Provides system administrators with tools to manage user accounts, roles, and access levels across the platform. Administrators can create new user accounts, reset passwords, update user permissions, and maintain role-based access control to safeguard sensitive information and ensure efficient system management.
 
