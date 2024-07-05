@@ -143,55 +143,92 @@ These needs are prioritized based on their importance and impact on users, ensur
 
 ### Diagrams
 
-- **Figure 1: Use Case Diagram of the Expanded Payroll System**
-  [Click here to view full resolution](Use Case Diagram.png - initial (diagrams.net))
+### Use Case Diagram
 
-  The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
+[![UseCaseDiagram](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)
+<small>Figure 1: Use Case Diagram of the Expanded Payroll System</small>
 
-  **Actors:**
-  - **Employee:** Interacts with personal account details, attendance records, payslip viewing, leave requests, and time tracking.
-  - **Payroll Administrator:** Manages payroll reports, payslip generation, and payroll summaries.
-  - **IT Administrator:** Handles system security and user role management.
-  - **HR Administrator:** Manages employee records, attendance, leave requests, and approvals.
+The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
 
-  **Use Cases:**
-  - **Employee:**
-    - **Time Tracking:** Records time in and time out.
-    - **View Payslip:** Access payslips by month or year.
-    - **View Leave Status:** Check approved leave request status.
-    - **Login:** Secure access to the system.
-    - **Manage Leave:** View remaining leave credits and submit leave requests.
-  - **IT Administrator:**
-    - **Role Management:** Administers role-based access control.
-    - **User Management:** Manages user accounts.
-  - **Payroll Administrator:**
-    - **Generate Reports:** Creates monthly payroll reports and summaries.
-    - **Generate Payslip:** Calculates and saves employee payslips.
-  - **HR Administrator:**
-    - **Employee Management:** Adds, modifies, and deletes employee records.
-    - **Attendance and Leave:** Monitors attendance records and manages leave requests.
+Actors:
+- Employee: Interacts with personal account details, attendance records, payslip viewing, leave requests, and time tracking.
+- Payroll Administrator: Manages payroll reports, payslip generation, and payroll summaries.
+- IT Administrator: Handles system security and user role management.
+- HR Administrator: Manages employee records, attendance, leave requests, and approvals.
 
-  **Interactions:**
-  - All actors log in to access their respective functionalities.
-  - Generate Payslip involves computing allowances, deductions, and saving payslips.
-  - Role-Based Access Control ensures secure user access across the system.
+Use Cases:
+- Employee:
+  - Time Tracking: Records time in and time out.
+  - View Payslip: Access payslips by month or year.
+  - View Leave Status: Check approved leave request status.
+  - Login: Secure access to the system.
+  - Manage Leave: View remaining leave credits and submit leave requests.
 
-- **Figure 2: Class Diagram of the Expanded Payroll System**
-  [Click here to view full resolution](Class Diagram.png - initial (diagrams.net))
+- IT Administrator:
+  - Role Management: Administers role-based access control.
+  - User Management: Manages user accounts.
 
-  The class diagram illustrates the structure and relationships of classes within the payroll system. Key components include:
+- Payroll Administrator:
+  - Generate Reports: Creates monthly payroll reports and summaries.
+  - Generate Payslip: Calculates and saves employee payslips.
 
-  **Classes:**
-  - **Employee:** Represents individual employee details such as ID, name, and contact information.
-  - **Payroll:** Manages payroll data, including earnings, deductions, and net salary calculations.
-  - **HRManager:** Handles employee management functionalities such as adding, editing, and deleting employee records.
-  - **SecurityManager:** Implements authentication and authorization mechanisms to ensure secure system access.
-  - **ReportGenerator:** Generates payroll reports and analytics dashboards based on user inputs.
+- HR Administrator:
+  - Employee Management: Adds, modifies, and deletes employee records.
+  - Attendance and Leave: Monitors attendance records and manages leave requests.
 
-  **Relationships:**
-  - **Association:** Connects classes to represent relationships, such as Employee to Payroll for salary calculation.
-  - **Inheritance:** Shows inheritance relationships, such as HRManager inheriting functionality from UserManager.
-  - **Dependency:** Indicates dependencies between classes, for example, Payroll depends on Employee data for calculations.
+Interactions:
+- All actors log in to access their respective functionalities.
+- Generate Payslip involves computing allowances, deductions, and saving payslips.
+- Role-Based Access Control ensures secure user access across the system.
+- HR Administrator manages employee records, attendance, and leave requests.
+
+### Class Diagram
+
+[![AOOP_S2101 (3)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)
+<small>Figure 2: Class Diagram of the Expanded Payroll System</small>
+
+This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
+
+Classes and Associations:
+- Employee
+  - 1..* Department
+  - 1..* Allowance
+  - 1..1 Timesheet (Composition)
+  - 1..* Payslip (Aggregation)
+  - 1..1 User (Association)
+  - 1..* Role (Aggregation)
+  - 1..* LeaveRequest (Association)
+
+- Allowance
+  - 1..* Employee
+
+- EmployeePayrollSummaryReport
+  - 1..* Deduction (Composition)
+  - 1..* Timesheet (Composition)
+  - 1..1 Payslip (Aggregation)
+
+- Tax
+  - 1..1 TaxCategory (Association)
+
+- Timesheet
+  - 1..1 Employee
+
+- Payslip
+  - 1..* PayslipViewer (Association)
+  - 1..* PayslipImpl (Inheritance)
+
+- User
+  - 1..1 Employee
+
+- Role
+  - 1..1 Permission (Aggregation)
+
+- Position
+  - 1..* Employee
+
+- LeaveRequest
+  - 1..1 LeaveRequestCategory (Association)
+
 - **Figure 3: Entity-Relationship Diagram (ERD) of the Expanded Payroll System**
   ![ER Diagram](ER Diagram.png)
 
