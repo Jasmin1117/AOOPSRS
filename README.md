@@ -74,19 +74,19 @@ These needs are prioritized based on their importance and impact on users, ensur
 
 ### System Features
 
-1. **Employee Login Functionality:** Secure login for employees to access profiles and personal information, with error handling for invalid login attempts.
+1. **Employee Login Functionality:** Provides a secure login mechanism for employees to access their profiles and personal information. The system includes error handling to manage and notify users of invalid login attempts, enhancing security.
    
-2. **Payroll Generation Capability:** Automated calculation and generation of employee payslips. Payroll administrators review and save payslips, which are then automatically distributed to employees.
+2. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review and save generated payslips, which are then distributed to employees electronically or in printed form.
    
-3. **HR Management Functions:** HR can add, edit, view, and delete employee information with input validation to ensure accurate records.
+3. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
    
-4. **Leave Management:** HR can approve, disapprove, view, and delete leave requests, maintaining accurate records of employee leave.
+4. **Leave Management:** Facilitates comprehensive leave management processes where HR can approve, disapprove, view, and delete employee leave requests. The system maintains a centralized record of all leave requests, helping HR managers efficiently manage employee absences and ensure staffing coverage.
    
-5. **Employee Self-Service Portal:** Employees can view personal information, record time in and out, submit and track leave requests, and view electronic payslips with detailed breakdowns.
+5. **Employee Self-Service Portal:** Provides employees with a self-service portal to access and manage their personal information. Employees can record their time in and out, submit leave requests, track the status of submitted requests, and view electronic payslips that provide detailed breakdowns of earnings, deductions, and benefits.
    
-6. **Reporting Capabilities:** Generates detailed payslip reports, including earnings, deductions, benefits, and take-home pay summaries. An analytics dashboard provides visual insights into payroll trends, attendance patterns, and leave utilization.
+6. **Reporting Capabilities:** Offers extensive reporting functionalities that generate detailed payslip reports and analytics. The system compiles comprehensive reports on employee earnings, deductions, benefits, and net pay, aiding payroll administrators in financial planning and compliance. An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
    
-7. **System Administrator Functionalities:** System administrators manage user accounts, roles, and access levels, reset passwords, and update access controls. Role-based access control ensures secure and efficient system management.
+7. **System Administrator Functionalities:** Provides system administrators with tools to manage user accounts, roles, and access levels across the platform. Administrators can create new user accounts, reset passwords, update user permissions, and maintain role-based access control to safeguard sensitive information and ensure efficient system management.
 
 ### Non-functional Requirements
 
