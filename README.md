@@ -18,6 +18,7 @@
 - [Appendix](#appendix)
   - [Glossary](#glossary)
   - [Diagrams](#diagrams)
+  - [Demo Video](#demo-video)
 
 ## Introduction
 
@@ -403,3 +404,7 @@ The relationships within the ERD outline the connections between different entit
 
 - **Role - Permission:**
   With a one-to-many relationship, each role can have multiple permissions associated with it, allowing for flexible and granular control over system access and functionality.
+
+
+### Demo Video
+
