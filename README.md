@@ -1,4 +1,4 @@
-# Software Requirements Specification for Payroll System Expansion
+# Software Requirements Specification for MotorPH Payroll System Expansion
 
 ## TABLE OF CONTENTS
 
