@@ -55,7 +55,7 @@ The payroll system addresses several key user needs:
 
 #### Employees:
 - **Self-Service Options:** Access electronic payslips, submit leave requests, and update personal information conveniently.
-- **Clear Information Access:** Easily understand and access pay details, tax documents, and leave balances.
+- **Clear Information Access:** Easily understand and access pay details, allowance breakdown, salary details, and leave balances.
 - **User-Friendly Interface:** Navigate the system effortlessly for self-service tasks.
 
 #### HR Administrators:
