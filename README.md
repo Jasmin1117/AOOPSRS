@@ -19,6 +19,8 @@
   - [Glossary](#glossary)
   - [Diagrams](#diagrams)
   - [Demo Video](#demo-video)
+ 
+---
 
 ## Introduction
 
