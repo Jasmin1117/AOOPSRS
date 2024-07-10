@@ -1,6 +1,6 @@
 # Software Requirements Specification for MotorPH Payroll System Expansion
 
-### Prepared and Presented by
+### Prepared and Presented by:
 
 Jomari Abejo  
 Jasmin Pascual  
