@@ -54,7 +54,7 @@ The payroll system addresses several key user needs:
 - **Payroll Dashboard:** Access a dashboard for monthly pay period management and monitoring.
 
 #### Employees:
-- **Self-Service Options:** Access electronic payslips, submit leave requests, and update personal information conveniently.
+- **Self-Service Options:** Access electronic payslips, submit leave requests, and view personal information conveniently.
 - **Clear Information Access:** Easily understand and access pay details, allowance breakdown, salary details, and leave balances.
 - **User-Friendly Interface:** Navigate the system effortlessly for self-service tasks.
 
