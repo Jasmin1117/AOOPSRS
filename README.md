@@ -48,11 +48,29 @@ The expanded payroll system offers a range of key features and functionalities t
 
 The payroll system addresses several key user needs and pain points:
 
-- **Ease of Use:** Users require an intuitive interface for easy navigation and quick access to information.
-- **Accurate Payroll Processing:** Payroll administrators need precise salary calculations and timely processing to meet regulatory requirements and employee expectations.
-- **Comprehensive Reporting:** Payroll administrators need access to detailed reports and analytics for payroll data, including earnings summaries.
-- **Self-Service Capabilities:** Employees should be able to view personal information, submit leave requests, and access electronic payslips easily.
+### User Needs
 
+The payroll system addresses specific needs and challenges across different roles:
+
+**Payroll Administrators:**
+- **Accuracy and Compliance:** Ensure precise payroll calculations and compliance with labor laws.
+- **Reporting and Analytics:** Access comprehensive reports for financial analysis and regulatory requirements.
+- **Efficiency in Processing:** Streamline payroll processes to reduce manual errors and improve efficiency.
+- **Dashboard for Monitoring:** Utilize a dashboard for real-time monitoring of payroll processing status, key metrics, and alerts.
+
+**Employees:**
+- **Self-Service Options:** Access electronic payslips, submit leave requests, and update personal information conveniently.
+- **Clear Information Access:** Easily understand and access pay details, tax documents, and leave balances.
+- **User-Friendly Interface:** Navigate the system effortlessly for self-service tasks.
+
+**HR Managers:**
+- **Leave Approval Management:** Streamline and automate the process of approving employee leave requests to ensure timely responses and compliance with company policies.
+- **Dashboard for Leave Management:** Access a centralized dashboard to monitor leave balances, track employee absences, and forecast staffing needs effectively.
+- **Timesheet Management:** Efficiently manage and track employee work hours and attendance through an integrated timesheet management module.
+
+**IT Administrators:**
+- **Access Control:** Manage access levels and permissions for employees to ensure data security and regulatory compliance.
+- **Password Management:** Facilitate secure password management and updates for employee accounts, ensuring robust cybersecurity practices across the payroll system infrastructure.
 These needs are prioritized based on their importance and impact on users, ensuring the system meets their expectations effectively.
 
 ### Assumptions and Dependencies
