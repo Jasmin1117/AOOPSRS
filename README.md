@@ -71,7 +71,7 @@ The payroll system addresses specific needs and challenges across different role
 **IT Administrators:**
 - **Access Control:** Manage access levels and permissions for employees to ensure data security and regulatory compliance.
 - **Password Management:** Facilitate secure password management and updates for employee accounts, ensuring robust cybersecurity practices across the payroll system infrastructure.
-These needs are prioritized based on their importance and impact on users, ensuring the system meets their expectations effectively.
+
 
 ### Assumptions and Dependencies
 
