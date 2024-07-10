@@ -1,5 +1,8 @@
 # Software Requirements Specification for MotorPH Payroll System Expansion
 
+
+---
+
 ## TABLE OF CONTENTS
 
 - [Introduction](#introduction)
@@ -238,6 +241,8 @@ The payroll system addresses several key user needs:
 
 ### Glossary
 
+## Glossary
+
 - **Authentication:** The process of verifying the identity of a user attempting to access the system.
 - **Controller:** In MVC architecture, the component that handles user input and interacts with the model to update the view.
 - **CRUD:** Create, Read, Update, Delete - basic operations performed on database records.
@@ -260,14 +265,12 @@ The payroll system addresses several key user needs:
 - **PhilHealth:** The Philippine Health Insurance Corporation, providing health insurance to employees.
 - **Payslip:** A document detailing an employee's earnings and deductions for a specific period.
 - **Reporting Tools:** Software tools used to generate and manage reports.
-- **Role:** A defined set of permissions and access rights assigned to a user.
-- **SSS:** Social Security System, providing social insurance to employees in the Philippines.
-- **Security:** Measures taken to protect the system and its data from unauthorized access or attacks.
-- **Timesheet:** A record of the hours an employee has worked.
-- **TIN:** Tax Identification Number, used for tax purposes in the Philippines.
-- **User:** An individual who interacts with the system, such as an employee or administrator.
-- **User Interface (UI):** The part of the system that users interact with, including screens and menus.
-- **View:** In MVC architecture, the component that displays the data to the user.
+- **Role:** A defined set of permissions that determines access levels and capabilities within the system.
+- **Self-Service Portal:** A web-based interface that allows employees to manage personal information, submit leave requests, and view payslips.
+- **Session Management:** The process of securely managing and maintaining user sessions within the application.
+- **System Administrator:** A user role responsible for managing the overall operation and security of the system.
+- **User Interface (UI):** The graphical layout and interactive elements of the application that users interact with.
+- **User Management:** The process of managing user accounts, roles, and permissions within the system.
 
 ### Diagrams
 
