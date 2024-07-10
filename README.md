@@ -74,7 +74,14 @@ These needs are prioritized based on their importance and impact on users, ensur
 
 ### System Features
 
-1. **Employee Login Functionality:** Employee Login Functionality: Provides a secure login mechanism for employees to access their profiles and personal information. The system includes error handling to manage and notify users of invalid login attempts and allows employees to request a new password if forgotten, thereby enhancing security.
+1. **Employee Login Functionality:** 
+Description: Provides a secure login mechanism for employees to access their profiles and personal information. Includes error handling for invalid login attempts and password recovery options.
+Use Case: Organizes requirements based on different scenarios like successful login and password recovery.
+Mode of Operation: Includes normal operation and password recovery modes.
+User Class: Targets employee users for accessing personal information and IT administrators for managing security aspects.
+Object Class: Manages user credentials securely.
+Functional Hierarchy: Includes modules for authentication and session management.
+Combinations: Integrates use cases for seamless functionality during login and information access.
    
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
    <small>Figure 1: Successful Login</small>
@@ -82,7 +89,14 @@ These needs are prioritized based on their importance and impact on users, ensur
    {insert GIF}
    <small>Figure 2: Submitting Forgot Password</small>
 
-2. **Payroll Generation Capability:** Automates the calculation and generation of employee payslips based on predefined rules and inputs. Payroll administrators can review, save, view, and edit generated payslips, which are then distributed to employees electronically or in printed form.
+2. **Payroll Generation Capability:** 
+Description: Automates calculation and generation of employee payslips based on predefined rules and inputs. Allows administrators to review, edit, and distribute payslips.
+Use Case: Organizes requirements for generating, editing, and distributing payslips.
+Mode of Operation: Includes processes for generating, editing, and distributing payslips securely.
+User Class: Targets payroll administrators for managing payslip generation and distribution.
+Object Class: Manages payroll data and rules for accurate calculation.
+Functional Hierarchy: Includes modules for payroll calculation, editing, and distribution.
+Combinations: Integrates use cases for seamless payroll management and distribution.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
    <small>Figure 3: Generating and Saving Payslips</small>
@@ -90,7 +104,14 @@ These needs are prioritized based on their importance and impact on users, ensur
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/630af10e-bd5f-48a2-af9e-49fe3f31e418" alt="editp" width="500"/>
    <small>Figure 4: Viewing and Editing Employee Payslipss</small>
 
-3. **HR Management Functions:** Enables HR personnel to perform essential employee management tasks such as adding new employees, editing existing records, viewing detailed employee information, and deleting records when necessary. Input validation ensures data accuracy and consistency.
+3. **HR Management Functions:**
+Description: Enables HR personnel to manage employee records, including adding, editing, viewing detailed information, and handling deletions.
+Use Case: Organizes requirements for adding, editing, viewing, and deleting employee records.
+Mode of Operation: Includes secure operations for managing employee data.
+User Class: Targets HR administrators for managing employee information securely.
+Object Class: Manages employee data integrity and validation.
+Functional Hierarchy: Includes modules for employee data management and validation.
+Combinations: Integrates use cases for seamless HR operations and employee record management.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
    <small>Figure 5: Adding a new employee</small>
@@ -101,7 +122,14 @@ These needs are prioritized based on their importance and impact on users, ensur
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/09fe8a54-6a14-49e8-8ba9-db092e01fb8a" alt="viewem" width="500"/>
    <small>Figure 7: Viewing and Deleting Employee Information</small>
    
-4. **Leave Management:** Facilitates comprehensive leave management processes where HR can approve, disapprove, view, and delete employee leave requests. The system maintains a centralized record of all leave requests, helping HR managers efficiently manage employee absences and ensure staffing coverage.
+4. **Leave Management:**
+Description: Facilitates the process of leave request management, including approval, disapproval, viewing, and deletion of leave requests.
+Use Case: Organizes requirements for managing leave requests through approval cycles.
+Mode of Operation: Includes secure processes for managing leave requests and approvals.
+User Class: Targets HR personnel for managing leave requests efficiently.
+Object Class: Manages leave request data and approval workflows.
+Functional Hierarchy: Includes modules for leave request submission, approval, and tracking.
+Combinations: Integrates use cases for seamless leave management and tracking.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/54754eae-dc50-4dfc-99cb-f75099dfd142" alt="approve" width="500"/>
    <small>Figure 8: Approving Leave Request</small>
@@ -112,7 +140,14 @@ These needs are prioritized based on their importance and impact on users, ensur
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/55c26bd2-46f5-4d01-9956-98a2b81ff867" alt="viewleave" style="width:500px;">
    <small>Figure 10: Viewing and Deleting Leave Request</small>
    
-5. **Employee Self-Service Portal:** Provides employees with a self-service portal to access and manage their personal information. Employees can record their time in and out, submit leave requests, track the status of submitted requests, and view electronic payslips that provide detailed breakdowns of earnings, deductions, and benefits.
+5. **Employee Self-Service Portal:**
+Description: Provides employees with a portal to manage personal information, record attendance, submit leave requests, and view payslips.
+Use Case: Organizes requirements for employee self-service functionalities.
+Mode of Operation: Includes processes for secure access and management of personal data.
+User Class: Targets employees for accessing and managing personal information securely.
+Object Class: Manages employee self-service data and transactions.
+Functional Hierarchy: Includes modules for personal information management, attendance recording, leave request submission, and payslip viewing.
+Combinations: Integrates use cases for seamless employee self-service functionality and data management.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
    <small>Figure 11: Viewing Personal Information</small>
@@ -129,7 +164,14 @@ These needs are prioritized based on their importance and impact on users, ensur
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a" alt="payslipv" style="width:500px;">
    <small>Figure 15: Viewing Payslip</small>
 
-6. **Reporting Capabilities:** An integrated analytics dashboard offers visual insights into payroll trends, attendance patterns, and leave utilization, facilitating data-driven decision-making.
+6. **Reporting Capabilities:**
+Description: Provides integrated analytics and reporting dashboards for payroll trends, attendance patterns, leave utilization, and other HR metrics.
+Use Case: Organizes requirements for generating and viewing various reports and analytics.
+Mode of Operation: Includes processes for generating and presenting analytical insights securely.
+User Class: Targets HR administrators and management for data-driven decision-making.
+Object Class: Manages data aggregation and visualization for reporting purposes.
+Functional Hierarchy: Includes modules for report generation, data visualization, and dashboard presentation.
+Combinations: Integrates use cases for seamless data analysis and reporting capabilities.
  
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
    <small>Figure 16: Generating Payslip Report</small>
@@ -140,7 +182,14 @@ These needs are prioritized based on their importance and impact on users, ensur
    <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e8f0f4b6-806b-4d09-8f39-a27b9b4651de" alt="hrdash" width="500">
    <small>Figure 18: HR Dashboard</small>
 
-7. **System Administrator Functionalities:** Provides system administrators with tools to manage user accounts, roles, and access levels across the platform. Administrators can create new user accounts, reset passwords, update user permissions, and maintain role-based access control to safeguard sensitive information and ensure efficient system management.
+7. **System Administrator Functionalities:**
+Description: Provides tools for system administrators to manage user accounts, roles, permissions, and access levels across the platform.
+Use Case: Organizes requirements for managing user accounts and access controls.
+Mode of Operation: Includes secure processes for user management and access control.
+User Class: Targets system administrators for managing platform-wide security and access policies.
+Object Class: Manages user accounts, roles, and permissions securely.
+Functional Hierarchy: Includes modules for user account management, role-based access control, and permission assignment.
+Combinations: Integrates use cases for seamless system administration and security management.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/df351a08-5e1b-4bab-8683-e2250c6bea88" alt="newuser" style="width:500px;">
    <small>Figure 19: Adding a new user</small>
