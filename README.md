@@ -46,11 +46,7 @@ The expanded payroll system offers a range of key features and functionalities t
 
 ### User Needs
 
-The payroll system addresses several key user needs and pain points:
-
-### User Needs
-
-The payroll system addresses specific needs and challenges across different roles:
+The payroll system addresses several key user needs:
 
 **Payroll Administrators:**
 - **Accuracy and Compliance:** Ensure precise payroll calculations and compliance with labor laws.
