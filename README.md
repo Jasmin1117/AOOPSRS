@@ -48,23 +48,23 @@ The expanded payroll system offers a range of key features and functionalities t
 
 The payroll system addresses several key user needs:
 
-### Payroll Administrators:
+#### Payroll Administrators:
 - **Accuracy and Compliance:** Ensure precise payroll calculations and compliance with labor laws.
 - **Efficiency in Processing:** Streamline payroll processes to reduce manual errors and improve efficiency.
 - **Payroll Dashboard:** Access a dashboard for monthly pay period management and monitoring.
 
-### Employees:
+#### Employees:
 - **Self-Service Options:** Access electronic payslips, submit leave requests, and update personal information conveniently.
 - **Clear Information Access:** Easily understand and access pay details, tax documents, and leave balances.
 - **User-Friendly Interface:** Navigate the system effortlessly for self-service tasks.
 
-### HR Administrators:
+#### HR Administrators:
 - **Employee Management:** Edit, view, and delete employee information as necessary to maintain accurate records and ensure compliance with company policies.
 - **Leave Approval Management:** Streamline and automate the process of approving employee leave requests to ensure timely responses and compliance with company policies.
 - **Dashboard for Leave Management:** Access a centralized dashboard to monitor leave balances, track employee absences, and forecast staffing needs effectively.
 - **Timesheet Management:** Efficiently manage and track employee work hours and attendance through an integrated timesheet management module.
 
-### IT Administrators:
+#### IT Administrators:
 - **Access Control:** Manage access levels and permissions for employees to ensure data security and regulatory compliance.
 - **Password Management:** Facilitate secure password management and updates for employee accounts, ensuring robust cybersecurity practices across the payroll system infrastructure.
 
