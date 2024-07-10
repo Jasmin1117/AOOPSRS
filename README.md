@@ -59,7 +59,7 @@ The payroll system addresses several key user needs:
 - **Clear Information Access:** Easily understand and access pay details, tax documents, and leave balances.
 - **User-Friendly Interface:** Navigate the system effortlessly for self-service tasks.
 
-**HR Managers:**
+**HR Administrators:**
 - **Leave Approval Management:** Streamline and automate the process of approving employee leave requests to ensure timely responses and compliance with company policies.
 - **Dashboard for Leave Management:** Access a centralized dashboard to monitor leave balances, track employee absences, and forecast staffing needs effectively.
 - **Timesheet Management:** Efficiently manage and track employee work hours and attendance through an integrated timesheet management module.
