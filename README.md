@@ -1,5 +1,13 @@
 # Software Requirements Specification for MotorPH Payroll System Expansion
 
+### Prepared and Presented by
+
+Jomari Abejo  
+Jasmin Pascual  
+Lawrence Samuel Grefiel  
+
+BSIT Major in Software Development and Network and Cybersecurity  
+3rd Term, 2023-2024
 
 ---
 
@@ -240,8 +248,6 @@ The payroll system addresses several key user needs:
 ## Appendix
 
 ### Glossary
-
-## Glossary
 
 - **Authentication:** The process of verifying the identity of a user attempting to access the system.
 - **Controller:** In MVC architecture, the component that handles user input and interacts with the model to update the view.
