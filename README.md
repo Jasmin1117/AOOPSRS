@@ -168,7 +168,7 @@ The payroll system addresses several key user needs:
    <small>Figure 10: Viewing and Deleting Leave Request</small>
    
 5. **Employee Self-Service Portal:**
-- Description: Provides employees with a portal to manage personal information, record attendance, submit leave requests, and view payslips.
+- Description: Provides employees with access to update their personal details, record attendance for each workday, submit requests for leave, and view detailed payslip information. Additionally, the portal offers a secure option for employees to change their login passwords.
 - Use Case: Organizes requirements for employee self-service functionalities.
 - Mode of Operation: Includes processes for secure access and management of personal data.
 - User Class: Targets employees for accessing and managing personal information securely.
@@ -179,18 +179,22 @@ The payroll system addresses several key user needs:
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
    <small>Figure 11: Viewing Personal Information</small>
 
+   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/264dc06f-16a3-4b08-80ca-12ddcbf79d2d" alt="changemypass" width="500"/>
+   <small>Figure 12: Changing Password</small>
+
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/63248cad-d969-4384-846a-0fc9dbf46053" alt="timein" style="width:500px;">
-   <small>Figure 12: Recording Time in</small>
+   <small>Figure 13: Recording Time in</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/62e6e713-812d-432e-9010-8f0d1b1cc36c" alt="timeout" style="width:500px;">
-   <small>Figure 13: Recording Time out</small>
+   <small>Figure 14: Recording Time out</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/3c987bdc-f908-4411-a314-9a2f04171559" alt="sickleave" style="width:500px;">
-   <small>Figure 14: Submitting Leave Request</small>
+   <small>Figure 15: Submitting Leave Request</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a" alt="payslipv" style="width:500px;">
-   <small>Figure 15: Viewing Payslip</small>
+   <small>Figure 16: Viewing Payslip</small>
 
+  
 6. **Reporting Capabilities:**
 - Description: Provides integrated analytics and reporting dashboards for payroll trends, attendance patterns, leave utilization, and other HR metrics.
 - Use Case: Organizes requirements for generating and viewing various reports and analytics.
@@ -201,13 +205,13 @@ The payroll system addresses several key user needs:
 - Combinations: Integrates use cases for seamless data analysis and reporting capabilities.
  
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
-   <small>Figure 16: Generating Payslip Report</small>
+   <small>Figure 17: Generating Payslip Report</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e6ece67b-6a3b-48f0-a3e0-c408c184fb27" alt="fdashboard" style="width:500px;">
-   <small>Figure 17: Payroll Dashboard</small>
+   <small>Figure 18: Payroll Dashboard</small>
 
    <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e8f0f4b6-806b-4d09-8f39-a27b9b4651de" alt="hrdash" width="500">
-   <small>Figure 18: HR Dashboard</small>
+   <small>Figure 19: HR Dashboard</small>
 
 7. **System Administrator Functionalities:**
 - Description: Provides tools for system administrators to manage user accounts, roles, permissions, and access levels across the platform. The system admin can also process verification codes for employees when they submit a forgot password request.
@@ -219,16 +223,16 @@ The payroll system addresses several key user needs:
 - Combinations: Integrates use cases for seamless system administration and security management.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/df351a08-5e1b-4bab-8683-e2250c6bea88" alt="newuser" style="width:500px;">
-   <small>Figure 19: Adding a new user</small>
+   <small>Figure 20: Adding a new user</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/54343d8d-eb68-4ab6-9081-a54eb73854e3" alt="ediuserr" style="width:500px;">
-   <small>Figure 20: Editing user information and Resetting Password</small>
+   <small>Figure 21: Editing user information and Resetting Password</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/f0fd1962-e11e-4b8c-9369-1ea841425289" alt="delete" style="width:500px;">
-   <small>Figure 21: Viewing and Deleting User</small>
+   <small>Figure 22: Viewing and Deleting User</small>
 
    <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e036a7db-c0b5-41b7-9a78-a6d5d871917a" alt="changepass" width="500">
-   <small>Figure 22: View Password Change Requests</small>
+   <small>Figure 23: View Password Change Requests</small>
 
 
 ### Non-functional Requirements
@@ -326,7 +330,7 @@ Interactions:
 ### Class Diagram
 
 [![AOOP_S2101 (3)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)
-<small>Figure 23: Class Diagram of the Expanded Payroll System</small>
+<small>Figure 24: Class Diagram of the Expanded Payroll System</small>
 
 This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
 
@@ -373,7 +377,7 @@ Classes and Associations:
 ### Entity-relationship Diagram (ERD)
 
 ![Entity Relationship Diagram for MotorPH Payroll System drawio](https://github.com/Jasmin172002/AOOPSRS/assets/125138169/50ba213b-0766-4e13-9ec2-8b0a219c3d8d)
-  <small>Figure 24: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
+  <small>Figure 25: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
 
   The figure above represents the entity relationships for the payroll system. Below is the list of entities:
 
