@@ -444,7 +444,7 @@ Timestamps for key functionalities:
 
 Explore our comprehensive video demo showcasing the HR management functionalities of our system. This video provides an in-depth look at how HR professionals can utilize our platform to streamline employee management processes.
 
-Watch the demo here: [HR Management Functionalities Demo](https://www.youtube.com/watch?v=NkXQ2ZV0Iik)
+Watch the demo here: [HR Management Functionalities Demo](https://www.youtube.com/watch?v=6HUcJP_-e2Y)
 
 Timestamps for key functionalities:
 
