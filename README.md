@@ -444,21 +444,21 @@ Timestamps for key functionalities:
 
 Explore our comprehensive video demo showcasing the HR management functionalities of our system. This video provides an in-depth look at how HR professionals can utilize our platform to streamline employee management processes.
 
-Watch the demo here: HR Management Functionalities Demo(https://youtu.be/6HUcJP_-e2Y)
+Watch the demo here: [HR Management Functionalities Demo](https://www.youtube.com/watch?v=NkXQ2ZV0Iik)
 
 Timestamps for key functionalities:
 
-00:00 Login
-00:15 Access HR Dashboard
-00:33 Add New Employee
-02:31 Edit Employee Info
-02:55 View Employee Info
-03:06 Delete Employee
-03:29 Search Employee in Timesheet
-03:45 Approve Employee Leave Request
-04:01 Disapprove Employee Leave Request
-04:19 View Leave Request
-04:25 Delete Employee Leave Request
+- 00:00 Login
+- 00:15 Access HR Dashboard
+- 00:33 Add New Employee
+- 02:31 Edit Employee Info
+- 02:55 View Employee Info
+- 03:06 Delete Employee
+- 03:29 Search Employee in Timesheet
+- 03:45 Approve Employee Leave Request
+- 04:01 Disapprove Employee Leave Request
+- 04:19 View Leave Request
+- 04:25 Delete Employee Leave Request
 
 
 
