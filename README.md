@@ -107,7 +107,6 @@ The payroll system addresses several key user needs:
 - User Class: Targets employee users for accessing personal information and IT administrators for managing security aspects.
 - Object Class: Manages user credentials securely.
 - Functional Hierarchy: Includes modules for authentication and session management.
-- Combinations: Integrates use cases for seamless functionality during login and information access.
    
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
    <small>Figure 1: Successful Login</small>
@@ -121,7 +120,6 @@ The payroll system addresses several key user needs:
 - User Class: Targets payroll administrators for managing payslip generation and distribution.
 - Object Class: Manages payroll data and rules for accurate calculation.
 - Functional Hierarchy: Includes modules for payroll calculation, editing, and distribution.
-- Combinations: Integrates use cases for seamless payroll management and distribution.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
    <small>Figure 3: Generating and Saving Payslips</small>
@@ -135,7 +133,6 @@ The payroll system addresses several key user needs:
 - User Class: Targets HR administrators for managing employee information securely.
 - Object Class: Manages employee data integrity and validation.
 - Functional Hierarchy: Includes modules for employee data management and validation.
-- Combinations: Integrates use cases for seamless HR operations and employee record management.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
    <small>Figure 5: Adding a new employee</small>
@@ -152,7 +149,6 @@ The payroll system addresses several key user needs:
 - User Class: Targets HR personnel for managing leave requests efficiently.
 - Object Class: Manages leave request data and approval workflows.
 - Functional Hierarchy: Includes modules for leave request submission, approval, and tracking.
-- Combinations: Integrates use cases for seamless leave management and tracking.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/54754eae-dc50-4dfc-99cb-f75099dfd142" alt="approve" width="500"/>
    <small>Figure 8: Approving Leave Request</small>
@@ -169,7 +165,6 @@ The payroll system addresses several key user needs:
 - User Class: Targets employees for accessing and managing personal information securely.
 - Object Class: Manages employee self-service data and transactions.
 - Functional Hierarchy: Includes modules for personal information management, attendance recording, leave request submission, and payslip viewing.
-- Combinations: Integrates use cases for seamless employee self-service functionality and data management.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
    <small>Figure 11: Viewing Personal Information</small>
@@ -196,7 +191,6 @@ The payroll system addresses several key user needs:
 - User Class: Targets HR administrators and management for data-driven decision-making.
 - Object Class: Manages data aggregation and visualization for reporting purposes.
 - Functional Hierarchy: Includes modules for report generation, data visualization, and dashboard presentation.
-- Combinations: Integrates use cases for seamless data analysis and reporting capabilities.
  
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
    <small>Figure 17: Generating Payslip Report</small>
@@ -213,7 +207,6 @@ The payroll system addresses several key user needs:
 - User Class: Targets system administrators for managing platform-wide security and access policies.
 - Object Class: Manages user accounts, roles, and permissions securely.
 - Functional Hierarchy: Includes modules for user account management, role-based access control, and permission assignment.
-- Combinations: Integrates use cases for seamless system administration and security management.
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/df351a08-5e1b-4bab-8683-e2250c6bea88" alt="newuser" style="width:500px;">
    <small>Figure 20: Adding a new user</small>
