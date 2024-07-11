@@ -113,7 +113,7 @@ The payroll system addresses several key user needs:
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
    <small>Figure 1: Successful Login</small>
 
-   {insert GIF}
+   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/fb2a1f1d-bf09-429e-afe2-378593691929" alt="forgotpass" width="500">
    <small>Figure 2: Submitting Forgot Password</small>
 
 2. **Payroll Generation Capability:** 
@@ -210,7 +210,7 @@ The payroll system addresses several key user needs:
    <small>Figure 18: HR Dashboard</small>
 
 7. **System Administrator Functionalities:**
-- Description: Provides tools for system administrators to manage user accounts, roles, permissions, and access levels across the platform.
+- Description: Provides tools for system administrators to manage user accounts, roles, permissions, and access levels across the platform. The system admin can also process verification codes for employees when they submit a forgot password request.
 - Use Case: Organizes requirements for managing user accounts and access controls.
 - Mode of Operation: Includes secure processes for user management and access control.
 - User Class: Targets system administrators for managing platform-wide security and access policies.
@@ -226,6 +226,10 @@ The payroll system addresses several key user needs:
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/f0fd1962-e11e-4b8c-9369-1ea841425289" alt="delete" style="width:500px;">
    <small>Figure 21: Viewing and Deleting User</small>
+
+   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e036a7db-c0b5-41b7-9a78-a6d5d871917a" alt="changepass" width="500">
+   <small>Figure 22: View Password Change Requests</small>
+
 
 ### Non-functional Requirements
 
