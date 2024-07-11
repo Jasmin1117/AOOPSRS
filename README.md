@@ -426,3 +426,20 @@ The relationships within the ERD outline the connections between different entit
 
 ### Demo Video
 
+#### Video Demo: Employee Self-Service Portal
+
+We have created a full comprehensive video demonstration showcasing the functionalities of our Employee Self-Service Portal. This video provides an overview of how employees can interact with the portal to manage their personal information, record work hours, apply for leave, and view payslips.
+
+**Watch the demo here:** [Employee Self-Service Portal Demo](https://www.youtube.com/watch?v=NkXQ2ZV0Iik)
+
+Timestamps for key functionalities:
+- 00:00 Login
+- 00:12 Access Employee Profile
+- 00:27 Change Password
+- 00:47 Record Time In and Time Out
+- 01:04 File Leave Request
+- 01:51 View Payslip
+
+This demonstration illustrates the intuitive user interface and functionality enhancements that our Employee Self-Service Portal brings to streamline HR processes and empower employees.
+
+
