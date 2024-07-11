@@ -103,7 +103,6 @@ The payroll system addresses several key user needs:
 
 1. **Employee Login Functionality:** 
 - Description: Provides a secure login mechanism for employees to access their profiles and personal information. Includes error handling for invalid login attempts and password recovery options.
-- Use Case: Organizes requirements based on different scenarios like successful login and password recovery.
 - Mode of Operation: Includes normal operation and password recovery modes.
 - User Class: Targets employee users for accessing personal information and IT administrators for managing security aspects.
 - Object Class: Manages user credentials securely.
@@ -118,7 +117,6 @@ The payroll system addresses several key user needs:
 
 2. **Payroll Generation Capability:** 
 - Description: Automates calculation and generation of employee payslips based on predefined rules and inputs. Allows administrators to review, edit, and distribute payslips.
-- Use Case: Organizes requirements for generating, editing, and distributing payslips.
 - Mode of Operation: Includes processes for generating, editing, and distributing payslips securely.
 - User Class: Targets payroll administrators for managing payslip generation and distribution.
 - Object Class: Manages payroll data and rules for accurate calculation.
@@ -133,7 +131,6 @@ The payroll system addresses several key user needs:
 
 3. **HR Management Functions:**
 - Description: Enables HR personnel to manage employee records, including adding, editing, viewing detailed information, and handling deletions.
-- Use Case: Organizes requirements for adding, editing, viewing, and deleting employee records.
 - Mode of Operation: Includes secure operations for managing employee data.
 - User Class: Targets HR administrators for managing employee information securely.
 - Object Class: Manages employee data integrity and validation.
@@ -151,7 +148,6 @@ The payroll system addresses several key user needs:
    
 4. **Leave Management:**
 - Description: Facilitates the process of leave request management, including approval, disapproval, viewing, and deletion of leave requests.
-- Use Case: Organizes requirements for managing leave requests through approval cycles.
 - Mode of Operation: Includes secure processes for managing leave requests and approvals.
 - User Class: Targets HR personnel for managing leave requests efficiently.
 - Object Class: Manages leave request data and approval workflows.
@@ -169,7 +165,6 @@ The payroll system addresses several key user needs:
    
 5. **Employee Self-Service Portal:**
 - Description: Provides employees with access to update their personal details, record attendance for each workday, submit requests for leave, and view detailed payslip information. Additionally, the portal offers a secure option for employees to change their login passwords.
-- Use Case: Organizes requirements for employee self-service functionalities.
 - Mode of Operation: Includes processes for secure access and management of personal data.
 - User Class: Targets employees for accessing and managing personal information securely.
 - Object Class: Manages employee self-service data and transactions.
@@ -197,7 +192,6 @@ The payroll system addresses several key user needs:
   
 6. **Reporting Capabilities:**
 - Description: Provides integrated analytics and reporting dashboards for payroll trends, attendance patterns, leave utilization, and other HR metrics.
-- Use Case: Organizes requirements for generating and viewing various reports and analytics.
 - Mode of Operation: Includes processes for generating and presenting analytical insights securely.
 - User Class: Targets HR administrators and management for data-driven decision-making.
 - Object Class: Manages data aggregation and visualization for reporting purposes.
@@ -215,7 +209,6 @@ The payroll system addresses several key user needs:
 
 7. **System Administrator Functionalities:**
 - Description: Provides tools for system administrators to manage user accounts, roles, permissions, and access levels across the platform. The system admin can also process verification codes for employees when they submit a forgot password request.
-- Use Case: Organizes requirements for managing user accounts and access controls.
 - Mode of Operation: Includes secure processes for user management and access control.
 - User Class: Targets system administrators for managing platform-wide security and access policies.
 - Object Class: Manages user accounts, roles, and permissions securely.
