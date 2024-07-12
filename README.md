@@ -466,7 +466,7 @@ Timestamps for key functionalities:
 
 We have created a comprehensive video demonstration showcasing the functionalities of our Payroll Admin . This video provides an overview of how Payroll Admins can generate, view, and edit employee payslips to ensure accurate payroll management.
 
-**Watch the demo here**: [Payroll Admin Functionalities Demo](https://youtu.be/6HUcJP_-e2Y)
+**Watch the demo here**: [Payroll Admin Functionalities Demo](https://www.youtube.com/watch?v=mX3Gxz2Ymsw)
 
 Timestamps for Key Functionalities:
 
