@@ -61,11 +61,6 @@ The expanded payroll system offers a range of key features and functionalities t
 
 The payroll system addresses several key user needs:
 
-#### Payroll Administrators:
-- **Accuracy and Compliance:** Ensure precise payroll calculations and compliance with labor laws.
-- **Efficiency in Processing:** Streamline payroll processes to reduce manual errors and improve efficiency.
-- **Payroll Dashboard:** Access a dashboard for monthly pay period management and monitoring.
-
 #### Employees:
 - **Self-Service Options:** Access electronic payslips, submit leave requests, and view personal information conveniently.
 - **Clear Information Access:** Easily understand and access pay details, allowance breakdown, salary details, and leave balances.
@@ -76,6 +71,11 @@ The payroll system addresses several key user needs:
 - **Leave Approval Management:** Streamline and automate the process of approving employee leave requests to ensure timely responses and compliance with company policies.
 - **Dashboard for Leave Management:** Access a centralized dashboard to monitor leave balances, track employee absences, and forecast staffing needs effectively.
 - **Timesheet Management:** Efficiently manage and track employee work hours and attendance through an integrated timesheet management module.
+
+#### Payroll Administrators:
+- **Accuracy and Compliance:** Ensure precise payroll calculations and compliance with labor laws.
+- **Efficiency in Processing:** Streamline payroll processes to reduce manual errors and improve efficiency.
+- **Payroll Dashboard:** Access a dashboard for monthly pay period management and monitoring.
 
 #### IT Administrators:
 - **Access Control:** Manage access levels and permissions for employees to ensure data security and regulatory compliance.
@@ -464,7 +464,7 @@ Timestamps for key functionalities:
 
 We have created a comprehensive video demonstration showcasing the functionalities of our Payroll Admin . This video provides an overview of how Payroll Admins can generate, view, and edit employee payslips to ensure accurate payroll management.
 
-**Watch the demo here**: [Payroll Admin Functionalities](https://youtu.be/6HUcJP_-e2Y)
+**Watch the demo here**: [Payroll Admin Functionalities Demo](https://youtu.be/6HUcJP_-e2Y)
 
 Timestamps for Key Functionalities:
 
@@ -473,6 +473,23 @@ Timestamps for Key Functionalities:
 - 00:20 - Edit Employee Payslip
 - 00:43 - Access Payroll Dashboard
 - 01:02 - Generate and Save Payslip
+
+#### System Administrator Functionalities
+
+We have created a comprehensive video demonstration showcasing the functionalities of our System Administrator tools. This video provides an overview of how System Admins can manage user accounts, including adding new users, editing user details, resetting passwords, viewing user information, deleting users, and handling password change requests.
+
+**Watch the demo here**: [System Administrator Functionalities Demo](https://www.youtube.com/watch?v=X5ugDMRVD2M&feature=youtu.be)
+
+Timestamps for Key Functionalities:
+
+- 00:00 - Login
+- 00:16 - Add New User
+- 00:42 - Edit User
+- 01:00 - Reset Password
+- 01:10 - View User
+- 01:16 - Delete User
+- 01:24 - View Password Change Request
+
 
 
 
