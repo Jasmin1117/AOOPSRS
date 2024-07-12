@@ -497,7 +497,7 @@ Timestamps for Key Functionalities:
 ## Conclusion
 The MotorPH Payroll System Expansion represents a significant advancement in our organization's ability to manage payroll, HR functions, and employee self-service effectively. By addressing key user needs and incorporating robust features, the system enhances operational efficiency, accuracy, and compliance with regulatory requirements.
 
-Throughout the development process, close collaboration among stakeholders—project managers, developers, testers, and end-users—has ensured that the system aligns closely with organizational goals and user expectations. As we move forward with implementation, ongoing feedback and iterative improvements will be crucial to refining the system and maximizing its benefits for all users.
+Throughout the development process, close collaboration among stakeholders—project managers, developers, testers, and end-users—has ensured that the system aligns closely with organizational goals and user expectations. As we conclude the MotorPH Payroll System project, ongoing feedback and iterative improvements have been crucial in refining the system and maximizing its benefits for all users. 
 
 With a focus on performance, scalability, security, usability, reliability, maintainability, and compliance, the MotorPH Payroll System Expansion is poised to support our organization's growth and operational excellence in the years to come.
 
