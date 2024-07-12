@@ -30,6 +30,8 @@ BSIT Major in Software Development and Network and Cybersecurity
   - [Glossary](#glossary)
   - [Diagrams](#diagrams)
   - [Demo Video](#demo-video)
+
+- [Conclusion](#conclusion)
  
 ---
 
@@ -281,13 +283,13 @@ The payroll system addresses several key user needs:
 
 The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
 
-Actors:
+**Actors:**
 - Employee: Interacts with personal account details, attendance records, payslip viewing, leave requests, and time tracking.
 - Payroll Administrator: Manages payroll reports, payslip generation, and payroll summaries.
 - IT Administrator: Handles system security and user role management.
 - HR Administrator: Manages employee records, attendance, leave requests, and approvals.
 
-Use Cases:
+**Use Cases:**
 - Employee:
   - Time Tracking: Records time in and time out.
   - View Payslip: Access payslips by month or year.
@@ -307,7 +309,7 @@ Use Cases:
   - Employee Management: Adds, modifies, and deletes employee records.
   - Attendance and Leave: Monitors attendance records and manages leave requests.
 
-Interactions:
+**Interactions:**
 - All actors log in to access their respective functionalities.
 - Generate Payslip involves computing allowances, deductions, and saving payslips.
 - Role-Based Access Control ensures secure user access across the system.
@@ -320,7 +322,7 @@ Interactions:
 
 This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
 
-Classes and Associations:
+**Classes and Associations:**
 - Employee
   - 1..* Department
   - 1..* Allowance
@@ -490,8 +492,14 @@ Timestamps for Key Functionalities:
 - 01:16 - Delete User
 - 01:24 - View Password Change Request
 
+---
 
+## Conclusion
+The MotorPH Payroll System Expansion represents a significant advancement in our organization's ability to manage payroll, HR functions, and employee self-service effectively. By addressing key user needs and incorporating robust features, the system enhances operational efficiency, accuracy, and compliance with regulatory requirements.
 
+Throughout the development process, close collaboration among stakeholders—project managers, developers, testers, and end-users—has ensured that the system aligns closely with organizational goals and user expectations. As we move forward with implementation, ongoing feedback and iterative improvements will be crucial to refining the system and maximizing its benefits for all users.
+
+With a focus on performance, scalability, security, usability, reliability, maintainability, and compliance, the MotorPH Payroll System Expansion is poised to support our organization's growth and operational excellence in the years to come.
 
 
 
