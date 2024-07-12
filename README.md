@@ -428,7 +428,7 @@ The relationships within the ERD outline the connections between different entit
 
 #### Video Demo: Employee Self-Service Portal
 
-We have created a full comprehensive video demonstration showcasing the functionalities of our Employee Self-Service Portal. This video provides an overview of how employees can interact with the portal to manage their personal information, record work hours, apply for leave, and view payslips.
+We have created a comprehensive video demonstration showcasing the functionalities of our Employee Self-Service Portal. This video provides an overview of how employees can interact with the portal to manage their personal information, record work hours, apply for leave, and view payslips.
 
 **Watch the demo here:** [Employee Self-Service Portal Demo](https://www.youtube.com/watch?v=NkXQ2ZV0Iik)
 
@@ -442,11 +442,11 @@ Timestamps for key functionalities:
 
 #### Video Demo: HR Management Functionalities
 
-Explore our comprehensive video demo showcasing the HR management functionalities of our system. This video provides an in-depth look at how HR professionals can utilize our platform to streamline employee management processes.
+We have created a comprehensive video demonstration showcasing the functionalities of our HR Management Dashboard. This video provides an overview of how HR personnel can manage employee information, approve leave requests, and more.
 
-Watch the demo here: [HR Management Functionalities Demo](https://www.youtube.com/watch?v=6HUcJP_-e2Y)
+**Watch the demo here:** [HR Management Functionalities Demo](https://www.youtube.com/watch?v=6HUcJP_-e2Y)
 
-**Timestamps for key functionalities:**
+Timestamps for key functionalities:
 
 - 00:00 Login
 - 00:15 Access HR Dashboard
@@ -462,11 +462,11 @@ Watch the demo here: [HR Management Functionalities Demo](https://www.youtube.co
 
 #### Video Demo: Payroll Admin Functionalities
 
-We have created a full comprehensive video demonstration showcasing the functionalities of our Payroll Admin . This video provides an overview of how Payroll Admins can generate, view, and edit employee payslips to ensure accurate payroll management.
+We have created a comprehensive video demonstration showcasing the functionalities of our Payroll Admin . This video provides an overview of how Payroll Admins can generate, view, and edit employee payslips to ensure accurate payroll management.
 
-Watch the demo here: [Payroll Admin Dashboard: Generating and Managing Employee Payslips](https://youtu.be/6HUcJP_-e2Y)
+**Watch the demo here**: [Payroll Admin Dashboard: Generating and Managing Employee Payslips](https://youtu.be/6HUcJP_-e2Y)
 
-**Timestamps for Key Functionalities:**
+Timestamps for Key Functionalities:
 
 - 00:00 - Login
 - 00:12 - Access Employee Payslip for Whole Pay Period
