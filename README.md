@@ -446,7 +446,7 @@ Explore our comprehensive video demo showcasing the HR management functionalitie
 
 Watch the demo here: [HR Management Functionalities Demo](https://www.youtube.com/watch?v=6HUcJP_-e2Y)
 
-Timestamps for key functionalities:
+**Timestamps for key functionalities:**
 
 - 00:00 Login
 - 00:15 Access HR Dashboard
@@ -459,6 +459,22 @@ Timestamps for key functionalities:
 - 04:01 Disapprove Employee Leave Request
 - 04:19 View Leave Request
 - 04:25 Delete Employee Leave Request
+
+#### Video Demo: Payroll Admin Functionalities
+
+We have created a full comprehensive video demonstration showcasing the functionalities of our Payroll Admin . This video provides an overview of how Payroll Admins can generate, view, and edit employee payslips to ensure accurate payroll management.
+
+Watch the demo here: [Payroll Admin Dashboard: Generating and Managing Employee Payslips](https://youtu.be/6HUcJP_-e2Y)
+
+**Timestamps for Key Functionalities:**
+
+- 00:00 - Login
+- 00:12 - Access Employee Payslip for Whole Pay Period
+- 00:20 - Edit Employee Payslip
+- 00:43 - Access Payroll Dashboard
+- 01:02 - Generate and Save Payslip
+
+
 
 
 
