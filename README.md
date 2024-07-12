@@ -426,7 +426,7 @@ The relationships within the ERD outline the connections between different entit
 
 ### Demo Video
 
-#### Video Demo: Employee Self-Service Portal
+#### Employee Self-Service Portal
 
 We have created a comprehensive video demonstration showcasing the functionalities of our Employee Self-Service Portal. This video provides an overview of how employees can interact with the portal to manage their personal information, record work hours, apply for leave, and view payslips.
 
@@ -440,7 +440,7 @@ Timestamps for key functionalities:
 - 01:04 File Leave Request
 - 01:51 View Payslip
 
-#### Video Demo: HR Management Functionalities
+#### HR Management Functionalities
 
 We have created a comprehensive video demonstration showcasing the functionalities of our HR Management Dashboard. This video provides an overview of how HR personnel can manage employee information, approve leave requests, and more.
 
@@ -460,7 +460,7 @@ Timestamps for key functionalities:
 - 04:19 View Leave Request
 - 04:25 Delete Employee Leave Request
 
-#### Video Demo: Payroll Admin Functionalities
+#### Payroll Admin Functionalities
 
 We have created a comprehensive video demonstration showcasing the functionalities of our Payroll Admin . This video provides an overview of how Payroll Admins can generate, view, and edit employee payslips to ensure accurate payroll management.
 
