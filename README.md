@@ -123,11 +123,11 @@ The payroll system addresses several key user needs:
 - Object Class: Manages payroll data and rules for accurate calculation.
 - Functional Hierarchy: Includes modules for payroll calculation, editing, and distribution.
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
+   ![generatepay](https://github.com/user-attachments/assets/ec16e37c-3cce-4416-b626-1e211a674dda){:width="500px"}
    <small>Figure 3: Generating and Saving Payslips</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/630af10e-bd5f-48a2-af9e-49fe3f31e418" alt="editp" width="500"/>
-   <small>Figure 4: Viewing and Editing Employee Payslipss</small>
+   ![editpayslip](https://github.com/user-attachments/assets/2e1065af-871a-44d0-a896-e26ff5cb0f23){:width="500px"}
+   <small>Figure 4: Viewing and Editing Employee Payslips</small>
 
 3. **HR Management Functions:**
 - Description: Enables HR personnel to manage employee records, including adding, editing, viewing detailed information, and handling deletions.
@@ -194,10 +194,10 @@ The payroll system addresses several key user needs:
 - Object Class: Manages data aggregation and visualization for reporting purposes.
 - Functional Hierarchy: Includes modules for report generation, data visualization, and dashboard presentation.
  
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
+   ![generatepay](https://github.com/user-attachments/assets/ec16e37c-3cce-4416-b626-1e211a674dda){:width="500px"}
    <small>Figure 17: Generating Payslip Report</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e6ece67b-6a3b-48f0-a3e0-c408c184fb27" alt="fdashboard" style="width:500px;">
+   ![paydashboard](https://github.com/user-attachments/assets/4a2e7bf5-dcfd-42ad-a902-a4d58e1e99bb){:width="500px"}
    <small>Figure 18: Payroll Dashboard</small>
 
    <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e8f0f4b6-806b-4d09-8f39-a27b9b4651de" alt="hrdash" width="500">
