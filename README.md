@@ -139,10 +139,10 @@ The payroll system addresses several key user needs:
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
    <small>Figure 5: Adding a new employee</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/6a0f7ee2-dddf-42d7-a567-f77388c0fe2f" alt="editem" width="500"/>
+   ![editem](https://github.com/user-attachments/assets/23911efc-06cc-4655-bb41-ed152d000d81){:width="500px"}
    <small>Figure 6: Editing Employee Information</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/09fe8a54-6a14-49e8-8ba9-db092e01fb8a" alt="viewem" width="500"/>
+   ![delete](https://github.com/user-attachments/assets/57286280-f9ea-4055-bc00-c1f6ee9fbad8){:width="500px"}
    <small>Figure 7: Viewing and Deleting Employee Information</small>
    
 4. **Leave Management:**
@@ -428,69 +428,7 @@ The relationships within the ERD outline the connections between different entit
 
 ### Demo Video
 
-#### Employee Self-Service Portal
 
-We have created a comprehensive video demonstration showcasing the functionalities of our Employee Self-Service Portal. This video provides an overview of how employees can interact with the portal to manage their personal information, record work hours, apply for leave, and view payslips.
-
-**Watch the demo here:** [Employee Self-Service Portal Demo](https://www.youtube.com/watch?v=NkXQ2ZV0Iik)
-
-Timestamps for key functionalities:
-- 00:00 Login
-- 00:12 Access Employee Profile
-- 00:27 Change Password
-- 00:47 Record Time In and Time Out
-- 01:04 File Leave Request
-- 01:51 View Payslip
-
-#### HR Management Functionalities
-
-We have created a comprehensive video demonstration showcasing the functionalities of our HR Management Dashboard. This video provides an overview of how HR personnel can manage employee information, approve leave requests, and more.
-
-**Watch the demo here:** [HR Management Functionalities Demo](https://www.youtube.com/watch?v=6HUcJP_-e2Y)
-
-Timestamps for key functionalities:
-
-- 00:00 Login
-- 00:15 Access HR Dashboard
-- 00:33 Add New Employee
-- 02:31 Edit Employee Info
-- 02:55 View Employee Info
-- 03:06 Delete Employee
-- 03:29 Search Employee in Timesheet
-- 03:45 Approve Employee Leave Request
-- 04:01 Disapprove Employee Leave Request
-- 04:19 View Leave Request
-- 04:25 Delete Employee Leave Request
-
-#### Payroll Admin Functionalities
-
-We have created a comprehensive video demonstration showcasing the functionalities of our Payroll Admin . This video provides an overview of how Payroll Admins can generate, view, and edit employee payslips to ensure accurate payroll management.
-
-**Watch the demo here**: [Payroll Admin Functionalities Demo](https://www.youtube.com/watch?v=mX3Gxz2Ymsw)
-
-Timestamps for Key Functionalities:
-
-- 00:00 - Login
-- 00:12 - Access Employee Payslip for Whole Pay Period
-- 00:20 - Edit Employee Payslip
-- 00:43 - Access Payroll Dashboard
-- 01:02 - Generate and Save Payslip
-
-#### System Administrator Functionalities
-
-We have created a comprehensive video demonstration showcasing the functionalities of our System Administrator tools. This video provides an overview of how System Admins can manage user accounts, including adding new users, editing user details, resetting passwords, viewing user information, deleting users, and handling password change requests.
-
-**Watch the demo here**: [System Administrator Functionalities Demo](https://www.youtube.com/watch?v=X5ugDMRVD2M&feature=youtu.be)
-
-Timestamps for Key Functionalities:
-
-- 00:00 - Login
-- 00:16 - Add New User
-- 00:42 - Edit User
-- 01:00 - Reset Password
-- 01:10 - View User
-- 01:16 - Delete User
-- 01:24 - View Password Change Request
 
 ---
 
