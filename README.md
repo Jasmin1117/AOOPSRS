@@ -113,7 +113,7 @@ The payroll system addresses several key user needs:
    ![sucesslogin](https://github.com/user-attachments/assets/552542f0-d34b-4bb6-9aca-1e27668a52a6){:width="500px"}
    <small>Figure 1: Successful Login</small>
 
-   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/fb2a1f1d-bf09-429e-afe2-378593691929" alt="forgotpass" width="500">
+   ![forgotpassword](https://github.com/user-attachments/assets/aabced58-4299-43a4-b6fe-6d34fbee41a8){:width="500px"}
    <small>Figure 2: Submitting Forgot Password</small>
 
 2. **Payroll Generation Capability:** 
