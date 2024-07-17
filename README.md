@@ -152,14 +152,17 @@ The payroll system addresses several key user needs:
 - Object Class: Manages leave request data and approval workflows.
 - Functional Hierarchy: Includes modules for leave request submission, approval, and tracking.
 
+   ![last](https://github.com/user-attachments/assets/5239b9cf-d6cf-4505-901f-a355e32f4538){:width="500px"}
+    <small>Figure 8: Approving Leave Request</small>
+
    ![approve](https://github.com/user-attachments/assets/595a7434-025f-4dd7-8cdb-6e56f3e13c3a){:width="500px"}
-   <small>Figure 8: Approving Leave Request</small>
+   <small>Figure 9: Filing Employee Leave</small>
 
    ![disap](https://github.com/user-attachments/assets/7b6cf2ca-f985-4a55-bd5c-8901228b0f03){:width="500px"}
-   <small>Figure 9: Disapproving Leave Request</small>
+   <small>Figure 10: Disapproving Leave Request</small>
 
    ![deleterequest](https://github.com/user-attachments/assets/d5912217-4186-4e1d-a434-457f412a8f40){:width="500px"}
-   <small>Figure 10: Viewing and Deleting Leave Request</small>
+   <small>Figure 11: Viewing and Deleting Leave Request</small>
    
 5. **Employee Self-Service Portal:**
 - Description: Provides employees with access to update their personal details, record attendance for each workday, submit requests for leave, and view detailed payslip information. Additionally, the portal offers a secure option for employees to change their login passwords.
@@ -169,22 +172,22 @@ The payroll system addresses several key user needs:
 - Functional Hierarchy: Includes modules for personal information management, attendance recording, leave request submission, and payslip viewing.
 
    ![vieww](https://github.com/user-attachments/assets/aa9c6c01-9bba-4c25-8aa6-b0f30b2b43c7){:width="500px"}
-   <small>Figure 11: Viewing Personal Information</small>
+   <small>Figure 12: Viewing Personal Information</small>
 
    ![changepass](https://github.com/user-attachments/assets/aee99097-fd6c-4aec-9321-9e6038c5c5ca){:width="500px"}
-   <small>Figure 12: Changing Password</small>
+   <small>Figure 13: Changing Password</small>
 
    ![timeinn](https://github.com/user-attachments/assets/cb833416-520e-4844-bfc6-fc2a7854c23e){:width="500px"}
-   <small>Figure 13: Recording Time in</small>
+   <small>Figure 14: Recording Time in</small>
 
    ![timeoutt](https://github.com/user-attachments/assets/375394cb-0ef0-444d-9058-0f7c38bc4357){:width="500px"}
-   <small>Figure 14: Recording Time out</small>
+   <small>Figure 15: Recording Time out</small>
 
    ![submit](https://github.com/user-attachments/assets/c7333a69-5a20-45a6-90c6-d9ed43f0b6c1){:width="500px"}
-   <small>Figure 15: Submitting Leave Request</small>
+   <small>Figure 16: Submitting Leave Request</small>
 
    ![viewp](https://github.com/user-attachments/assets/84659770-0d10-4723-81b3-777b3b403856){:width="500px"}
-   <small>Figure 16: Viewing Payslip</small>
+   <small>Figure 17: Viewing Payslip</small>
 
   
 6. **Reporting Capabilities:**
@@ -195,13 +198,13 @@ The payroll system addresses several key user needs:
 - Functional Hierarchy: Includes modules for report generation, data visualization, and dashboard presentation.
  
    ![generatepay](https://github.com/user-attachments/assets/ec16e37c-3cce-4416-b626-1e211a674dda){:width="500px"}
-   <small>Figure 17: Generating Payslip Report</small>
+   <small>Figure 18: Generating Payslip Report</small>
 
    ![paydashboard](https://github.com/user-attachments/assets/4a2e7bf5-dcfd-42ad-a902-a4d58e1e99bb){:width="500px"}
-   <small>Figure 18: Payroll Dashboard</small>
+   <small>Figure 19: Payroll Dashboard</small>
 
    ![dash](https://github.com/user-attachments/assets/ab3226aa-fe00-4b01-aed2-765128641791){:width="500px"}
-   <small>Figure 19: HR Dashboard</small>
+   <small>Figure 20: HR Dashboard</small>
 
 7. **System Administrator Functionalities:**
 - Description: Provides tools for system administrators to manage user accounts, roles, permissions, and access levels across the platform. The system admin can also process verification codes for employees when they submit a forgot password request.
@@ -211,16 +214,16 @@ The payroll system addresses several key user needs:
 - Functional Hierarchy: Includes modules for user account management, role-based access control, and permission assignment.
 
    ![adduser](https://github.com/user-attachments/assets/217dbb05-357c-4916-8e2e-686d703b75bc){:width="500px"}
-   <small>Figure 20: Adding a new user</small>
+   <small>Figure 21: Adding a new user</small>
 
    ![shhs](https://github.com/user-attachments/assets/b37065fc-1eaa-46a1-ac8e-7570e96f014a){:width="500px"}
-   <small>Figure 21: Editing user information and Resetting Password</small>
+   <small>Figure 22: Editing user information and Resetting Password</small>
 
    ![vandd](https://github.com/user-attachments/assets/8d2dfe62-a594-490b-b51a-a472e3b644a4){:width="500px"}
-   <small>Figure 22: Viewing and Deleting User</small>
+   <small>Figure 23: Viewing and Deleting User</small>
 
    ![code](https://github.com/user-attachments/assets/0bcf8d23-89d7-4ef0-b7e5-953a60c97cf0){:width="500px"}
-   <small>Figure 23: View Password Change Requests</small>
+   <small>Figure 24: View Password Change Requests</small>
 
 
 ### Non-functional Requirements
@@ -279,7 +282,7 @@ The payroll system addresses several key user needs:
 ### Use Case Diagram
 
 [![UseCaseDiagram](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)
-<small>Figure 22: Use Case Diagram of the Expanded Payroll System</small>
+<small>Figure 25: Use Case Diagram of the Expanded Payroll System</small>
 
 The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
 
@@ -318,7 +321,7 @@ The use case diagram illustrates the various interactions between different acto
 ### Class Diagram
 
 [![AOOP_S2101 (3)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)
-<small>Figure 24: Class Diagram of the Expanded Payroll System</small>
+<small>Figure 26: Class Diagram of the Expanded Payroll System</small>
 
 This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
 
@@ -365,7 +368,7 @@ This class diagram illustrates the relationships and dependencies between key cl
 ### Entity-relationship Diagram (ERD)
 
 ![Entity Relationship Diagram for MotorPH Payroll System drawio](https://github.com/Jasmin172002/AOOPSRS/assets/125138169/50ba213b-0766-4e13-9ec2-8b0a219c3d8d)
-  <small>Figure 25: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
+  <small>Figure 27: Entity-Relationship Diagram (ERD) of the Expanded Payroll System</small>
 
   The figure above represents the entity relationships for the payroll system. Below is the list of entities:
 
