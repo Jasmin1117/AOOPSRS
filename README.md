@@ -110,7 +110,7 @@ The payroll system addresses several key user needs:
 - Object Class: Manages user credentials securely.
 - Functional Hierarchy: Includes modules for authentication and session management.
    
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
+   ![payslip](https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a){:width="500px"}
    <small>Figure 1: Successful Login</small>
 
    <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/fb2a1f1d-bf09-429e-afe2-378593691929" alt="forgotpass" width="500">
