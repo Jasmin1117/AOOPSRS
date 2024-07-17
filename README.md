@@ -180,10 +180,10 @@ The payroll system addresses several key user needs:
    ![timeoutt](https://github.com/user-attachments/assets/375394cb-0ef0-444d-9058-0f7c38bc4357){:width="500px"}
    <small>Figure 14: Recording Time out</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/3c987bdc-f908-4411-a314-9a2f04171559" alt="sickleave" style="width:500px;">
+   ![submit](https://github.com/user-attachments/assets/c7333a69-5a20-45a6-90c6-d9ed43f0b6c1){:width="500px"}
    <small>Figure 15: Submitting Leave Request</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a" alt="payslipv" style="width:500px;">
+   ![viewp](https://github.com/user-attachments/assets/84659770-0d10-4723-81b3-777b3b403856){:width="500px"}
    <small>Figure 16: Viewing Payslip</small>
 
   
