@@ -158,7 +158,7 @@ The payroll system addresses several key user needs:
    ![disap](https://github.com/user-attachments/assets/7b6cf2ca-f985-4a55-bd5c-8901228b0f03){:width="500px"}
    <small>Figure 9: Disapproving Leave Request</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/55c26bd2-46f5-4d01-9956-98a2b81ff867" alt="viewleave" style="width:500px;">
+   ![deleterequest](https://github.com/user-attachments/assets/d5912217-4186-4e1d-a434-457f412a8f40){:width="500px"}
    <small>Figure 10: Viewing and Deleting Leave Request</small>
    
 5. **Employee Self-Service Portal:**
@@ -168,16 +168,16 @@ The payroll system addresses several key user needs:
 - Object Class: Manages employee self-service data and transactions.
 - Functional Hierarchy: Includes modules for personal information management, attendance recording, leave request submission, and payslip viewing.
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
+   ![vieww](https://github.com/user-attachments/assets/aa9c6c01-9bba-4c25-8aa6-b0f30b2b43c7){:width="500px"}
    <small>Figure 11: Viewing Personal Information</small>
 
-   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/264dc06f-16a3-4b08-80ca-12ddcbf79d2d" alt="changemypass" width="500"/>
+   ![changepass](https://github.com/user-attachments/assets/aee99097-fd6c-4aec-9321-9e6038c5c5ca){:width="500px"}
    <small>Figure 12: Changing Password</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/63248cad-d969-4384-846a-0fc9dbf46053" alt="timein" style="width:500px;">
+   ![timeinn](https://github.com/user-attachments/assets/cb833416-520e-4844-bfc6-fc2a7854c23e){:width="500px"}
    <small>Figure 13: Recording Time in</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/62e6e713-812d-432e-9010-8f0d1b1cc36c" alt="timeout" style="width:500px;">
+   ![timeoutt](https://github.com/user-attachments/assets/375394cb-0ef0-444d-9058-0f7c38bc4357){:width="500px"}
    <small>Figure 14: Recording Time out</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/3c987bdc-f908-4411-a314-9a2f04171559" alt="sickleave" style="width:500px;">
@@ -200,7 +200,7 @@ The payroll system addresses several key user needs:
    ![paydashboard](https://github.com/user-attachments/assets/4a2e7bf5-dcfd-42ad-a902-a4d58e1e99bb){:width="500px"}
    <small>Figure 18: Payroll Dashboard</small>
 
-   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e8f0f4b6-806b-4d09-8f39-a27b9b4651de" alt="hrdash" width="500">
+   ![dash](https://github.com/user-attachments/assets/ab3226aa-fe00-4b01-aed2-765128641791){:width="500px"}
    <small>Figure 19: HR Dashboard</small>
 
 7. **System Administrator Functionalities:**
