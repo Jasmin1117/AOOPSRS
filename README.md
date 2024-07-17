@@ -26,11 +26,12 @@ BSIT Major in Software Development and Network and Cybersecurity
   - [System Features](#system-features)
   - [Non-functional Requirements](#non-functional-requirements)
 
+- [Conclusion](#conclusion)
+
 - [Appendix](#appendix)
   - [Glossary](#glossary)
   - [Diagrams](#diagrams)
 
-- [Conclusion](#conclusion)
  
 ---
 
@@ -243,6 +244,13 @@ The payroll system addresses several key user needs:
 
 ---
 
+## Conclusion
+The MotorPH Payroll System Expansion represents a significant advancement in our organization's ability to manage payroll, HR functions, and employee self-service effectively. By addressing key user needs and incorporating robust features, the system enhances operational efficiency, accuracy, and compliance with regulatory requirements.
+
+Throughout the development process, close collaboration among stakeholders—project managers, developers, testers, and end-users—has ensured that the system aligns closely with organizational goals and user expectations. As we conclude the MotorPH Payroll System project, ongoing feedback and iterative improvements have been crucial in refining the system and maximizing its benefits for all users. 
+
+---
+
 ## Appendix
 
 ### Glossary
@@ -426,13 +434,6 @@ The relationships within the ERD outline the connections between different entit
 
 - Role - Permission:
   With a one-to-many relationship, each role can have multiple permissions associated with it, allowing for flexible and granular control over system access and functionality.
-
----
-
-## Conclusion
-The MotorPH Payroll System Expansion represents a significant advancement in our organization's ability to manage payroll, HR functions, and employee self-service effectively. By addressing key user needs and incorporating robust features, the system enhances operational efficiency, accuracy, and compliance with regulatory requirements.
-
-Throughout the development process, close collaboration among stakeholders—project managers, developers, testers, and end-users—has ensured that the system aligns closely with organizational goals and user expectations. As we conclude the MotorPH Payroll System project, ongoing feedback and iterative improvements have been crucial in refining the system and maximizing its benefits for all users. 
 
 With a focus on performance, scalability, security, usability, reliability, maintainability, and compliance, the MotorPH Payroll System Expansion is poised to support our organization's growth and operational excellence in the years to come.
 
