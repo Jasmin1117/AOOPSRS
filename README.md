@@ -136,7 +136,7 @@ The payroll system addresses several key user needs:
 - Object Class: Manages employee data integrity and validation.
 - Functional Hierarchy: Includes modules for employee data management and validation.
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
+   ![addem](https://github.com/user-attachments/assets/c4ebbe15-ce8e-4136-bb14-45b1be2881df){:width="500px"}
    <small>Figure 5: Adding a new employee</small>
 
    ![editem](https://github.com/user-attachments/assets/23911efc-06cc-4655-bb41-ed152d000d81){:width="500px"}
@@ -210,16 +210,16 @@ The payroll system addresses several key user needs:
 - Object Class: Manages user accounts, roles, and permissions securely.
 - Functional Hierarchy: Includes modules for user account management, role-based access control, and permission assignment.
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/df351a08-5e1b-4bab-8683-e2250c6bea88" alt="newuser" style="width:500px;">
+   ![adduser](https://github.com/user-attachments/assets/217dbb05-357c-4916-8e2e-686d703b75bc){:width="500px"}
    <small>Figure 20: Adding a new user</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/54343d8d-eb68-4ab6-9081-a54eb73854e3" alt="ediuserr" style="width:500px;">
+   ![shhs](https://github.com/user-attachments/assets/b37065fc-1eaa-46a1-ac8e-7570e96f014a){:width="500px"}
    <small>Figure 21: Editing user information and Resetting Password</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/f0fd1962-e11e-4b8c-9369-1ea841425289" alt="delete" style="width:500px;">
+   ![vandd](https://github.com/user-attachments/assets/8d2dfe62-a594-490b-b51a-a472e3b644a4){:width="500px"}
    <small>Figure 22: Viewing and Deleting User</small>
 
-   <img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e036a7db-c0b5-41b7-9a78-a6d5d871917a" alt="changepass" width="500">
+   ![code](https://github.com/user-attachments/assets/0bcf8d23-89d7-4ef0-b7e5-953a60c97cf0){:width="500px"}
    <small>Figure 23: View Password Change Requests</small>
 
 
