@@ -152,10 +152,10 @@ The payroll system addresses several key user needs:
 - Object Class: Manages leave request data and approval workflows.
 - Functional Hierarchy: Includes modules for leave request submission, approval, and tracking.
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/54754eae-dc50-4dfc-99cb-f75099dfd142" alt="approve" width="500"/>
+   ![approve](https://github.com/user-attachments/assets/595a7434-025f-4dd7-8cdb-6e56f3e13c3a){:width="500px"}
    <small>Figure 8: Approving Leave Request</small>
 
-   <img src="https://github.com/Jasmin172002/documentation/assets/125138169/753644bf-f96b-415c-b51a-aa1635f1fddc" alt="disapp" width="500"/>
+   ![disap](https://github.com/user-attachments/assets/7b6cf2ca-f985-4a55-bd5c-8901228b0f03){:width="500px"}
    <small>Figure 9: Disapproving Leave Request</small>
 
    <img src="https://github.com/Jasmin172002/documentation/assets/125138169/55c26bd2-46f5-4d01-9956-98a2b81ff867" alt="viewleave" style="width:500px;">
