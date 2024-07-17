@@ -29,7 +29,6 @@ BSIT Major in Software Development and Network and Cybersecurity
 - [Appendix](#appendix)
   - [Glossary](#glossary)
   - [Diagrams](#diagrams)
-  - [Demo Video](#demo-video)
 
 - [Conclusion](#conclusion)
  
@@ -153,10 +152,10 @@ The payroll system addresses several key user needs:
 - Functional Hierarchy: Includes modules for leave request submission, approval, and tracking.
 
    ![last](https://github.com/user-attachments/assets/5239b9cf-d6cf-4505-901f-a355e32f4538){:width="500px"}
-    <small>Figure 8: Approving Leave Request</small>
+    <small>Figure 8: Filing Employee Leave</small>
 
    ![approve](https://github.com/user-attachments/assets/595a7434-025f-4dd7-8cdb-6e56f3e13c3a){:width="500px"}
-   <small>Figure 9: Filing Employee Leave</small>
+   <small>Figure 9: Approving Leave Request</small>
 
    ![disap](https://github.com/user-attachments/assets/7b6cf2ca-f985-4a55-bd5c-8901228b0f03){:width="500px"}
    <small>Figure 10: Disapproving Leave Request</small>
@@ -427,11 +426,6 @@ The relationships within the ERD outline the connections between different entit
 
 - Role - Permission:
   With a one-to-many relationship, each role can have multiple permissions associated with it, allowing for flexible and granular control over system access and functionality.
-
-
-### Demo Video
-
-
 
 ---
 
